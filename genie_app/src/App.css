@@ -1,0 +1,39 @@
+.App {
+    text-align: center;
+}
+
+.Card {
+    background-color: white;
+    padding: 32px;
+    width: 40%;
+    /* display: flex;
+    align-items: flex-start;
+    justify-content: flex-start; */
+    margin: 0 auto;
+    box-shadow: 0 15px 30px 0 rgba(0, 0, 0, 0.11), 0 5px 15px 0 rgba(0, 0, 0, 0.08);
+    box-sizing: border-box;
+    text-align: left;
+}
+
+.tableHeads {
+    font-weight: bold;
+    color: blueviolet;
+}
+
+td {
+    font-weight: normal;
+    padding: 10px 20px 10px 20px;
+}
+
+.dbTable {
+    text-align: center;
+}
+
+.seq {
+    margin-bottom: 20px;
+}
+
+.tabs {
+    background-color: white;
+    
+}

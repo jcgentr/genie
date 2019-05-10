@@ -1,0 +1,8 @@
+sudo systemctl start postgresql     # starts the server
+sudo systemctl stop postgresql      # stops it
+sudo systemctl restart postgresql   # restart it
+sudo systemctl status postgresql    # check the server's status
+
+sudo su postgres
+psql 'genie'
+
