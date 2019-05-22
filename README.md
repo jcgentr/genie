@@ -4,6 +4,7 @@
 - React
 - Node.js
 - PostgreSQL
+- Python3
 
 ## Steps to start application
 1. Make sure postgresql server is running
